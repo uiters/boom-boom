@@ -1,0 +1,19 @@
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\game3.exe.config
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.pdb
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\game3.pdb
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.fBoom.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.Properties.Resources.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Boom Boom.csproj.GenerateResource.Cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\MetroFramework.Design.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\MetroFramework.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Interop.MediaPlayer.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Interop.WMPLib.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Boom Boom.csproj.ResolveComReference.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.fAddScore.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Boom Boom.csproj.CoreCompileInputs.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Boom Boom.csproj.CopyComplete
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\Boom Boom.csprojResolveAssemblyReference.cache

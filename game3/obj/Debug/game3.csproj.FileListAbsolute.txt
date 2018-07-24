@@ -1,0 +1,10 @@
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\game3.exe.config
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\game3.pdb
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.csprojResolveAssemblyReference.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.fBoom.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.Properties.Resources.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.csproj.GenerateResource.Cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.pdb

@@ -1,0 +1,9 @@
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\game3.exe.config
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\game3.pdb
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.fBoom.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.Properties.Resources.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.csproj.GenerateResource.Cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Release\game3.pdb

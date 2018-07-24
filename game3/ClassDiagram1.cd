@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="game3.Background" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAIAACAAAAAA=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Barrier" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAEAAAAQgAAAAAAABCAAAAAAAAAIAIAAAAAA=</HashCode>
+      <FileName>Barrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Bomb" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQACAAgAAgAAAAAAAAAAAgAAAgIMAAEAAAABAAg=</HashCode>
+      <FileName>Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Bomber" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAgAgAAABAAAAAgAAAAoAgEAAAACIAAA=</HashCode>
+      <FileName>Bomber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Boss" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEDAEACAAQwAEgSAAAAAAACAAAAEAhAsAAQAKAAAAAA=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Box" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAIAAA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.fAddScore" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAJgBAACQAAACAAACwJAAAIAAAABCAAI=</HashCode>
+      <FileName>fAddScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.fMain" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBJEIQAESYRABwELEGQcMmCB6AIQPAZCNGIKgJDAAA=</HashCode>
+      <FileName>fMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Item" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAgAAAAAgBAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Management" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAQAAABEAJghAAAAZEEAiCABkiIAAYCCAIAIAACQ=</HashCode>
+      <FileName>Management.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Map" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAABAAAAAQAAAAAAAAAAAAAAAAgAaQAIASE=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.MiniBoss" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AeBAEAAAAQQAAgSAAIABIAAQACAEAAhAAEQACAAAAAA=</HashCode>
+      <FileName>MiniBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Object">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAIAAAEAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Program" Collapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game3.Sound" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAACEABCEQAAAAEAAAJCACBoAIAAQAAAAQ=</HashCode>
+      <FileName>Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

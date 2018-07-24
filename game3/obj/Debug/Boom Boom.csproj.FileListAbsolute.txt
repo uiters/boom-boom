@@ -1,0 +1,19 @@
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\game3.exe.config
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\game3.pdb
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\MetroFramework.Design.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\MetroFramework.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Interop.WMPLib.dll
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Boom Boom.csproj.ResolveComReference.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.fAddScore.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.Properties.Resources.resources
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Boom Boom.csproj.GenerateResource.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Boom Boom.csproj.CoreCompileInputs.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Boom Boom.csproj.CopyComplete
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.exe
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.pdb
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\Boom Boom.csprojAssemblyReference.cache
+C:\Users\ndc07\Documents\WF Project\game3\game3\obj\Debug\game3.fMain.resources
