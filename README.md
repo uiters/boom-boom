@@ -2,9 +2,7 @@
   <br>Boom Boom<br>
 </h1>
 
-<h4 align="center">
-  <a href="https://github.com/cuongw/boom-boom" target="_blank"><code>A fun game</code></a> with C#.
-</h4>
+> A fun game with C#.
 
 <div align="center">
   <h4>
@@ -45,10 +43,6 @@ Enjoy 😍
 
 For help getting started with C#, view our online [documentation](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
-## Bugs and Issues
-
-Have a bug or an issue with this project? [Open a new issue](https://github.com/cuongw/boom-boom/issues) here on GitHub.
-
 ## License
 
-MIT © [cuongw](https://github.com/cuongw) 💎
+MIT
