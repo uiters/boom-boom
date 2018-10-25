@@ -1,21 +1,23 @@
-# Boom Boom
+<h1 align="center">
+  <br>Boom Boom<br>
+</h1>
 
-💣💣💣 A fun game using C#.
+<h4 align="center">
+  <a href="https://github.com/cuongw/boom-boom" target="_blank"><code>A fun game</code></a> with C#.
+</h4>
 
-![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
-[![](https://img.shields.io/github/license/jade28/boom-boom.svg)](https://github.com/jade28/boom-boom/blob/master/LICENSE)
+<div align="center">
+  <h4>
+    <a href="#installation">Installation</a> |
+    <a href="#documents">Documents</a> |
+    <a href="#bugs-and-issues">Bugs and Issues</a> |
+    <a href="#license">License</a>
+  </h4>
+</div>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/34389409/44379638-222aa200-a531-11e8-8a46-f3c627473ec8.png" width="500"/>
 </p>
-
-## Contents
-
-* [Installation](#installation)
-* [Build with](#build-with)
-* [Documents](#documents)
-* [Bugs and Issues](#bugs-and-issues)
-* [License](#license)
 
 ## Installation
 
@@ -39,18 +41,14 @@
 
 Enjoy 😍
 
-## Build with
-
-* [Visual Studio 2017](https://visualstudio.microsoft.com/fr/downloads/?rr=https%3A%2F%2Fwww.google.com.vn%2F)
-
 ## Documents
 
 For help getting started with C#, view our online [documentation](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
 ## Bugs and Issues
 
-Have a bug or an issue with this project? [Open a new issue](https://github.com/ndc07/ting-music/issues) here on GitHub.
+Have a bug or an issue with this project? [Open a new issue](https://github.com/cuongw/boom-boom/issues) here on GitHub.
 
 ## License
 
-MIT © [jade28](https://github.com/jade28)💎
+MIT © [cuongw](https://github.com/cuongw) 💎
