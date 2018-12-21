@@ -12,7 +12,6 @@
 * [Build with](#build-with)
 * [Documents](#documents)
 * [Bugs and Issues](#bugs-and-issues)
-* [Authors](#authors)
 * [License](#license)
 
 ## Installation
