@@ -49,10 +49,6 @@ For help getting started with C#, view our online [documentation](https://docs.m
 
 Have a bug or an issue with this project? [Open a new issue](https://github.com/ndc07/ting-music/issues) here on GitHub.
 
-## Author
-
-[ndc07](https://github.com/ndc07) 💎
-
 ## License
 
-[MIT](https://github.com/ndc07/dotfiles/blob/master/LICENSE)
+MIT ©️ [jade28](https://github.com/jade28)💎
