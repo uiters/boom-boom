@@ -3,6 +3,7 @@
 💣💣💣 A fun game using C#.
 
 ![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
+[![](https://img.shields.io/github/license/jade28/boom-boom.svg)](https://github.com/jade28/boom-boom/blob/master/LICENSE)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/34389409/44379638-222aa200-a531-11e8-8a46-f3c627473ec8.png" width="500"/>
@@ -52,4 +53,4 @@ Have a bug or an issue with this project? [Open a new issue](https://github.com/
 
 ## License
 
-MIT ©️ [jade28](https://github.com/jade28)💎
+MIT © [jade28](https://github.com/jade28)💎
