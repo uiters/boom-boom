@@ -2,7 +2,7 @@
   <br>Boom Boom<br>
 </h1>
 
-> A fun game with C#.
+> 💣 The bomb game for Windows operating system.
 
 <div align="center">
   <h4>
@@ -13,9 +13,7 @@
   </h4>
 </div>
 
-<p align="center">
 <img src="https://user-images.githubusercontent.com/34389409/44379638-222aa200-a531-11e8-8a46-f3c627473ec8.png" width="500"/>
-</p>
 
 ## Installation
 
